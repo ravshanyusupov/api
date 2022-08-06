@@ -1,5 +1,6 @@
 gunicorn
 Django==3.2.9
+whitenoise
 django-cors-headers==3.11.0
 django-widget-tweaks==1.4.12
 djangorestframework==3.12.4
